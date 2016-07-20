@@ -1,6 +1,6 @@
 {
   "name": "cpwd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Copy current directory path to clipboard",
   "license": "MIT",
   "repository": "akashnimare/copypwd",
@@ -22,6 +22,7 @@
     "path-copy",
     "cli-app"
   ],
+  "preferGlobal": "true",
   "dependencies": {
     "copy-paste": "*",
     "cwd": "*"
